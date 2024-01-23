@@ -2,6 +2,8 @@
 
 Please cite our paper if you use the code or data in your work:
 
+Koval, R., Andrews, N., & Yan, X. (2023, July). Forecasting Earnings Surprises from Conference Call Transcripts. In Findings of the Association for Computational Linguistics: ACL 2023 (pp. 8197-8209).
+
 ## Introduction
 
 This repository will contain the data and code used in the ACL 2023 paper. We will be adding them shortly. 
